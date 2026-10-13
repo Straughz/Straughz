@@ -10,7 +10,7 @@ Founder of Nexus Vantage Group, a one-person software studio in Sacramento, Cali
 - **[Sayso](https://kavishsingh.com/work/sayso/)**, push-to-talk dictation for Windows that learns the speaker's vocabulary and types into whatever program is in front. Rust, Tauri.
 - **[Routr](https://kavishsingh.com/work/routr/)**, a dispatcher that picks the model for each task, enforces the pick and keeps two subscriptions inside their limits. Python.
 - **[Hub and server infrastructure](https://kavishsingh.com/work/hub-infrastructure/)**, a Proxmox host and Ubuntu hub VM for persistent sessions, services and private source hosting, on a Tailscale network with no open ports.
-- **[Retail store kiosk](https://kavishsingh.com/work/ups-store-kiosk/)**, a self-service print and ship kiosk with signed auto-updates, usage billing and walk-away sessions. Python, Rust, Square.
+- **[Retail store kiosk](https://kavishsingh.com/work/store-kiosk/)**, a self-service print and ship kiosk with signed auto-updates, usage billing and walk-away sessions. Python, Rust, Square.
 - **[Customer upload portal and staff dashboard](https://kavishsingh.com/work/store-website/)**, a store website with a file-upload front and a staff dashboard behind two-factor sign-in. Python, Flask.
 
 ## Writing
